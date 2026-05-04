@@ -1,0 +1,12 @@
+:root {
+  --pastel-blue: #a2d2ff;
+  --baby-blue: #bde0fe;
+  --pink: #ffafcc;
+  --light-pink: #ffc8dd;
+  --pastel-purple: #cdb4db;
+}
+
+body {
+  background: #A2D2FF;
+  background: linear-gradient(90deg,var(--pastel-blue) 0%, var(--pastel-purple) 90%);
+}
